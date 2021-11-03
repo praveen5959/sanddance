@@ -3,6 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@deck.gl/core": "8.3.7",
+    "@deck.gl/layers": "8.3.7",
+    "@msrvida/sanddance-explorer": "^3",
+    "@luma.gl/core": "^8.3.1",
+    "@fluentui/react": "^7.150.0",
+    "vega": "^5.17.0",
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
